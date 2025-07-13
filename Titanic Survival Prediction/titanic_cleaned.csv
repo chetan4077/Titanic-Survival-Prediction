@@ -1,0 +1,892 @@
+PassengerId,Survived,Pclass,Age,Fare,Embarked,Sex_encoded,Title,Family,Has_Cabin,Ticket_Number
+1,0,3,22.0,7.25,S,1,Owen Braund,1,0,5.0
+2,1,1,38.0,71.2833,C,0,Florence Briggs Thayer Cumings,1,1,17599.0
+3,1,3,26.0,7.925,S,0,Laina Heikkinen,0,0,2.0
+4,1,1,35.0,53.1,S,0,Lily May Peel Futrelle,1,1,113803.0
+5,0,3,35.0,8.05,S,1,William Allen,0,0,373450.0
+6,0,3,25.0,8.4583,Q,1,James Moran,0,0,330877.0
+7,0,1,54.0,51.8625,S,1,Timothy McCarthy,0,1,17463.0
+8,0,3,2.0,21.075,S,1,Gosta Palsson,4,0,349909.0
+9,1,3,27.0,11.1333,S,0,Elisabeth Vilhelmina Berg Johnson,2,0,347742.0
+10,1,2,14.0,30.0708,C,0,Adele Achem Nasser,1,0,237736.0
+11,1,3,4.0,16.7,S,0,Marguerite Sandstrom,2,1,9549.0
+12,1,1,58.0,26.55,S,0,Elizabeth Bonnell,0,1,113783.0
+13,0,3,20.0,8.05,S,1,William Saundercock,0,0,5.0
+14,0,3,39.0,31.275,S,1,Anders Andersson,6,0,347082.0
+15,0,3,14.0,7.8542,S,0,Hulda Vestrom,0,0,350406.0
+16,1,2,55.0,16.0,S,0,Mary D Kingcome Hewlett,0,0,248706.0
+17,0,3,2.0,29.125,Q,1,Eugene Rice,5,0,382652.0
+18,1,2,30.0,13.0,S,1,Charles Williams,0,0,244373.0
+19,0,3,31.0,18.0,S,0,Emelia Maria Vandemoortele Vander Planke,1,0,345763.0
+20,1,3,21.5,7.225,C,0,Fatima Masselmani,0,0,2649.0
+21,0,2,35.0,26.0,S,1,Joseph Fynney,0,0,239865.0
+22,1,2,34.0,13.0,S,1,Lawrence Beesley,0,1,248698.0
+23,1,3,15.0,8.0292,Q,0,Anna McGowan,0,0,330923.0
+24,1,1,28.0,35.5,S,1,William Sloper,0,1,113788.0
+25,0,3,8.0,21.075,S,0,Torborg Palsson,4,0,349909.0
+26,1,3,38.0,31.3875,S,0,Selma Augusta Emilia Johansson Asplund,6,0,347077.0
+27,0,3,25.0,7.225,C,1,Farred Emir,0,0,2631.0
+28,0,1,19.0,263.0,S,1,Charles Fortune,5,1,19950.0
+29,1,3,21.5,7.8792,Q,0,Ellen O'Dwyer,0,0,330959.0
+30,0,3,25.0,7.8958,S,1,Lalio Todoroff,0,0,349216.0
+31,0,1,40.0,27.7208,C,1,Manuel Uruchurtu,0,0,17601.0
+32,1,1,35.0,146.5208,C,0,Marie Eugenie Spencer,1,1,17569.0
+33,1,3,21.5,7.75,Q,0,Mary Glynn,0,0,335677.0
+34,0,2,66.0,10.5,S,1,Edward Wheadon,0,0,24579.0
+35,0,1,28.0,82.1708,C,1,Edgar Meyer,1,0,17604.0
+36,0,1,42.0,52.0,S,1,Alexander Holverson,1,0,113789.0
+37,1,3,25.0,7.2292,C,1,Hanna Mamee,0,0,2677.0
+38,0,3,21.0,8.05,S,1,Ernest Cann,0,0,5.0
+39,0,3,18.0,18.0,S,0,Augusta Vander Planke,2,0,345764.0
+40,1,3,14.0,11.2417,C,0,Jamila Nicola-Yarred,1,0,2651.0
+41,0,3,40.0,9.475,S,0,Johanna Persdotter Larsson Ahlin,1,0,7546.0
+42,0,2,27.0,21.0,S,0,Dorothy Ann Wonnacott Turpin,1,0,11668.0
+43,0,3,25.0,7.8958,C,1,Theodor Kraeff,0,0,349253.0
+44,1,2,3.0,41.5792,C,0,Simonne Laroche,3,0,2123.0
+45,1,3,19.0,7.8792,Q,0,Margaret Devaney,0,0,330958.0
+46,0,3,25.0,8.05,S,1,William Rogers,0,0,4.0
+47,0,3,25.0,15.5,Q,1,Denis Lennon,1,0,370371.0
+48,1,3,21.5,7.75,Q,0,Bridget O'Driscoll,0,0,14311.0
+49,0,3,25.0,21.6792,C,1,Youssef Samaan,2,0,2662.0
+50,0,3,18.0,17.8,S,0,Josefine Franchi Arnold-Franchi,1,0,349237.0
+51,0,3,7.0,39.6875,S,1,Juha Panula,5,0,3101295.0
+52,0,3,21.0,7.8,S,1,Richard Nosworthy,0,0,4.0
+53,1,1,49.0,76.7292,C,0,Myna Haxtun Harper,1,1,17572.0
+54,1,2,29.0,26.0,S,0,Elizabeth Anne Wilkinson Faunthorpe,1,0,2926.0
+55,0,1,65.0,61.9792,C,1,Engelhart Ostby,1,1,113509.0
+56,1,1,40.0,35.5,S,1,Hugh Woolner,0,1,19947.0
+57,1,2,21.0,10.5,S,0,Emily Rugg,0,0,31026.0
+58,0,3,28.5,7.2292,C,1,Mansouer Novel,0,0,2697.0
+59,1,2,5.0,27.75,S,0,Constance West,3,0,34651.0
+60,0,3,11.0,46.9,S,1,William Goodwin,7,0,2144.0
+61,0,3,22.0,7.2292,C,1,Orsen Sirayanian,0,0,2669.0
+62,1,1,38.0,80.0,S,0,Amelie Icard,0,1,113572.0
+63,0,1,45.0,83.475,S,1,Henry Harris,1,1,36973.0
+64,0,3,4.0,27.9,S,1,Harald Skoog,5,0,347088.0
+65,0,1,40.0,27.7208,C,1,Albert Stewart,0,0,17605.0
+66,1,3,25.0,15.2458,C,1,Gerios Moubarek,2,0,2661.0
+67,1,2,29.0,10.5,S,0,Elizabeth Ramell Nye,0,1,29395.0
+68,0,3,19.0,8.1583,S,1,Ernest Crease,0,0,3464.0
+69,1,3,17.0,7.925,S,0,Erna Andersson,6,0,3101281.0
+70,0,3,26.0,8.6625,S,1,Vincenz Kink,2,0,315151.0
+71,0,2,32.0,10.5,S,1,Stephen Jenkin,0,0,33111.0
+72,0,3,16.0,46.9,S,0,Lillian Goodwin,7,0,2144.0
+73,0,2,21.0,73.5,S,1,Ambrose Hood,0,0,14879.0
+74,0,3,26.0,14.4542,C,1,Apostolos Chronopoulos,1,0,2680.0
+75,1,3,32.0,56.4958,S,1,Lee Bing,0,0,1601.0
+76,0,3,25.0,7.65,S,1,Sigurd Moen,0,1,348123.0
+77,0,3,25.0,7.8958,S,1,Ivan Staneff,0,0,349208.0
+78,0,3,25.0,8.05,S,1,Rahamin Moutal,0,0,374746.0
+79,1,2,0.83,29.0,S,1,Alden Caldwell,2,0,248738.0
+80,1,3,30.0,12.475,S,0,Elizabeth Dowdell,0,0,364516.0
+81,0,3,22.0,9.0,S,1,Achille Waelens,0,0,345767.0
+82,1,3,29.0,9.5,S,1,Jan Sheerlinck,0,0,345779.0
+83,1,3,21.5,7.7875,Q,0,Brigdet McDermott,0,0,330932.0
+84,0,1,28.0,47.1,S,1,Francisco Carrau,0,0,113059.0
+85,1,2,17.0,10.5,S,0,Bertha Ilett,0,0,14885.0
+86,1,3,33.0,15.85,S,0,Maria Mathilda Gustafsson Backstrom,3,0,3101278.0
+87,0,3,16.0,34.375,S,1,William Ford,4,0,6608.0
+88,0,3,25.0,8.05,S,1,Selman Slocovski,0,0,392086.0
+89,1,1,23.0,263.0,S,0,Mabel Fortune,5,1,19950.0
+90,0,3,24.0,8.05,S,1,Francesco Celotti,0,0,343275.0
+91,0,3,29.0,8.05,S,1,Emil Christmann,0,0,343276.0
+92,0,3,20.0,7.8542,S,1,Paul Andreasson,0,0,347466.0
+93,0,1,46.0,61.175,S,1,Herbert Chaffee,1,1,5734.0
+94,0,3,26.0,20.575,S,1,Bertram Dean,3,0,2315.0
+95,0,3,59.0,7.25,S,1,Daniel Coxon,0,0,364500.0
+96,0,3,25.0,8.05,S,1,Charles Shorney,0,0,374910.0
+97,0,1,71.0,34.6542,C,1,George Goldschmidt,0,1,17754.0
+98,1,1,23.0,63.3583,C,1,William Greenfield,1,1,17759.0
+99,1,2,34.0,23.0,S,0,Ada Julia Bone Doling,1,0,231919.0
+100,0,2,34.0,26.0,S,1,Sinai Kantor,1,0,244367.0
+101,0,3,28.0,7.8958,S,0,Matilda Petranec,0,0,349245.0
+102,0,3,25.0,7.8958,S,1,"""Pentcho"" Petroff",0,0,349215.0
+103,0,1,21.0,77.2875,S,1,Richard White,1,1,35281.0
+104,0,3,33.0,8.6542,S,1,Gustaf Johansson,0,0,7540.0
+105,0,3,37.0,7.925,S,1,Anders Gustafsson,2,0,3101276.0
+106,0,3,28.0,7.8958,S,1,Stoytcho Mionoff,0,0,349207.0
+107,1,3,21.0,7.65,S,0,Anna Salkjelsvik,0,0,343120.0
+108,1,3,25.0,7.775,S,1,Albert Moss,0,0,312991.0
+109,0,3,38.0,7.8958,S,1,Tido Rekic,0,0,349249.0
+110,1,3,21.5,24.15,Q,0,Bertha Moran,1,0,371110.0
+111,0,1,47.0,52.0,S,1,Walter Porter,0,1,110465.0
+112,0,3,14.5,14.4542,C,0,Hileni Zabour,1,0,2665.0
+113,0,3,22.0,8.05,S,1,David Barton,0,0,324669.0
+114,0,3,20.0,9.825,S,0,Katriina Jussila,1,0,4136.0
+115,0,3,17.0,14.4583,C,0,Malake Attalah,0,0,2627.0
+116,0,3,21.0,7.925,S,1,Edvard Pekoniemi,0,0,2.0
+117,0,3,70.5,7.75,Q,1,Patrick Connors,0,0,370369.0
+118,0,2,29.0,21.0,S,1,William Turpin,1,0,11668.0
+119,0,1,24.0,247.5208,C,1,Quigg Baxter,1,1,17558.0
+120,0,3,2.0,31.275,S,0,Ellis Andersson,6,0,347082.0
+121,0,2,21.0,73.5,S,1,Stanley Hickman,2,0,14879.0
+122,0,3,25.0,8.05,S,1,Leonard Moore,0,0,4.0
+123,0,2,32.5,30.0708,C,1,Nicholas Nasser,1,0,237736.0
+124,1,2,32.5,13.0,S,0,Susan Webber,0,1,27267.0
+125,0,1,54.0,77.2875,S,1,Percival White,1,1,35281.0
+126,1,3,12.0,11.2417,C,1,Elias Nicola-Yarred,1,0,2651.0
+127,0,3,25.0,7.75,Q,1,Martin McMahon,0,0,370372.0
+128,1,3,24.0,7.1417,S,1,Fridtjof Madsen,0,0,17369.0
+129,1,3,21.5,22.3583,C,0,Anna Peter,2,1,2668.0
+130,0,3,45.0,6.975,S,1,Johan Ekstrom,0,0,347061.0
+131,0,3,33.0,7.8958,C,1,Jozef Drazenoic,0,0,349241.0
+132,0,3,20.0,7.05,S,1,Domingos Coelho,0,0,3101307.0
+133,0,3,47.0,14.5,S,0,Grace Charity Laury Robins,1,0,5.0
+134,1,2,29.0,26.0,S,0,Mathilde Francoise Pede Weisz,1,0,228414.0
+135,0,2,25.0,13.0,S,1,Samuel Sobey,0,0,29178.0
+136,0,2,23.0,15.0458,C,1,Emile Richard,0,0,2133.0
+137,1,1,19.0,26.2833,S,0,Helen Newsom,2,1,11752.0
+138,0,1,37.0,53.1,S,1,Jacques Futrelle,1,1,113803.0
+139,0,3,16.0,9.2167,S,1,Olaf Osen,0,0,7534.0
+140,0,1,24.0,79.2,C,1,Victor Giglio,0,1,17593.0
+141,0,3,21.5,15.2458,C,0,Sultana Boulos,2,0,2678.0
+142,1,3,22.0,7.75,S,0,Anna Nysten,0,0,347081.0
+143,1,3,24.0,15.85,S,0,Elin Matilda Dolck Hakkarainen,1,0,2.0
+144,0,3,19.0,6.75,Q,1,Jeremiah Burke,0,0,365222.0
+145,0,2,18.0,11.5,S,1,Edgardo Andrew,0,0,231945.0
+146,0,2,19.0,36.75,S,1,Joseph Nicholls,2,0,33112.0
+147,1,3,27.0,7.7958,S,1,"""Wennerstrom"" Andersson",0,0,350043.0
+148,0,3,9.0,34.375,S,0,Robina Ford,4,0,6608.0
+149,0,2,36.5,26.0,S,1,"""Louis M Hoffman"" Navratil",2,1,230080.0
+150,0,2,42.0,13.0,S,1,Thomas Byles,0,0,244310.0
+151,0,2,51.0,12.525,S,1,Robert Bateman,0,0,1166.0
+152,1,1,22.0,66.6,S,0,Edith Wearne Pears,1,1,113776.0
+153,0,3,55.5,8.05,S,1,Alfonzo Meo,0,0,5.0
+154,0,3,40.5,14.5,S,1,Austin van Billiard,2,0,5.0
+155,0,3,25.0,7.3125,S,1,Ole Olsen,0,0,265302.0
+156,0,1,51.0,61.3792,C,1,Charles Williams,1,0,17597.0
+157,1,3,16.0,7.7333,Q,0,Katherine Gilnagh,0,0,35851.0
+158,0,3,30.0,8.05,S,1,Harry Corn,0,0,392090.0
+159,0,3,25.0,8.6625,S,1,Mile Smiljanic,0,0,315037.0
+160,0,3,25.0,69.55,S,1,Thomas Sage,10,0,2343.0
+161,0,3,44.0,16.1,S,1,John Cribb,1,0,371362.0
+162,1,2,40.0,15.75,S,0,"Elizabeth ""Bessie"" Inglis Milne Watt",0,0,33595.0
+163,0,3,26.0,7.775,S,1,John Bengtsson,0,0,347068.0
+164,0,3,17.0,8.6625,S,1,Jovo Calic,0,0,315093.0
+165,0,3,1.0,39.6875,S,1,Eino Panula,5,0,3101295.0
+166,1,3,9.0,20.525,S,1,Frank Goldsmith,2,0,363291.0
+167,1,1,35.0,55.0,S,0,Edith Martha Bowerman Chibnall,1,1,113505.0
+168,0,3,45.0,27.9,S,0,Anna Bernhardina Karlsson Skoog,5,0,347088.0
+169,0,1,40.0,25.925,S,1,John Baumann,0,0,17318.0
+170,0,3,28.0,56.4958,S,1,Lee Ling,0,0,1601.0
+171,0,1,61.0,33.5,S,1,Wyckoff Van der hoef,0,1,111240.0
+172,0,3,4.0,29.125,Q,1,Arthur Rice,5,0,382652.0
+173,1,3,1.0,11.1333,S,0,Eleanor Johnson,2,0,347742.0
+174,0,3,21.0,7.925,S,1,Antti Sivola,0,0,2.0
+175,0,1,56.0,30.6958,C,1,James Smith,0,1,17764.0
+176,0,3,18.0,7.8542,S,1,Klas Klasen,2,0,350404.0
+177,0,3,25.0,25.4667,S,1,Henry Lefebre,4,0,4133.0
+178,0,1,50.0,28.7125,C,0,Ann Isham,0,1,17595.0
+179,0,2,30.0,13.0,S,1,Reginald Hale,0,0,250653.0
+180,0,3,36.0,0.0,S,1,Lionel Leonard,0,0,0.0
+181,0,3,21.5,69.55,S,0,Constance Sage,10,0,2343.0
+182,0,2,30.0,15.05,C,1,Rene Pernot,0,0,2131.0
+183,0,3,9.0,31.3875,S,1,Clarence Asplund,6,0,347077.0
+184,1,2,1.0,39.0,S,1,Richard Becker,3,1,230136.0
+185,1,3,4.0,22.025,S,0,Luise Kink-Heilmann,2,0,315153.0
+186,0,1,40.0,50.0,S,1,Hugh Rood,0,1,113767.0
+187,1,3,21.5,15.5,Q,0,"Johanna ""Hannah"" Godfrey O'Brien",1,0,370365.0
+188,1,1,45.0,26.55,S,1,"""Mr C Rolmane"" Romaine",0,0,111428.0
+189,0,3,40.0,15.5,Q,1,John Bourke,2,0,364849.0
+190,0,3,36.0,7.8958,S,1,Stjepan Turcin,0,0,349247.0
+191,1,2,32.0,13.0,S,0,Rosa Pinsky,0,0,234604.0
+192,0,2,19.0,13.0,S,1,William Carbines,0,0,28424.0
+193,1,3,19.0,7.8542,S,0,Carla Andersen-Jensen,1,0,350046.0
+194,1,2,3.0,26.0,S,1,Michel Navratil,2,1,230080.0
+195,1,1,44.0,27.7208,C,0,Margaret Tobin Brown,0,1,17610.0
+196,1,1,58.0,146.5208,C,0,Elise Lurette,0,1,17569.0
+197,0,3,25.0,7.75,Q,1,Robert Mernagh,0,0,368703.0
+198,0,3,42.0,8.4042,S,1,Karl Olsen,1,0,4579.0
+199,1,3,21.5,7.75,Q,0,Margaret Madigan,0,0,370370.0
+200,0,2,24.0,13.0,S,0,"""Mrs Harbeck"" Yrois",0,0,248747.0
+201,0,3,28.0,9.5,S,1,Nestor Vande Walle,0,0,345770.0
+202,0,3,25.0,69.55,S,1,Frederick Sage,10,0,2343.0
+203,0,3,34.0,6.4958,S,1,Jakob Johanson,0,0,3101264.0
+204,0,3,45.5,7.225,C,1,Gerious Youseff,0,0,2628.0
+205,1,3,18.0,8.05,S,1,Gurshon Cohen,0,0,5.0
+206,0,3,2.0,10.4625,S,0,Telma Strom,1,1,347054.0
+207,0,3,32.0,15.85,S,1,Karl Backstrom,1,0,3101278.0
+208,1,3,26.0,18.7875,C,1,Nassef Albimona,0,0,2699.0
+209,1,3,16.0,7.75,Q,0,Helen Carr,0,0,367231.0
+210,1,1,40.0,31.0,C,1,Henry Blank,0,1,112277.0
+211,0,3,24.0,7.05,S,1,Ahmed Ali,0,0,3101311.0
+212,1,2,35.0,21.0,S,0,Clear Cameron,0,0,13528.0
+213,0,3,22.0,7.25,S,1,John Perkin,0,0,5.0
+214,0,2,30.0,13.0,S,1,Hans Givard,0,0,250646.0
+215,0,3,25.0,7.75,Q,1,Philip Kiernan,1,0,367229.0
+216,1,1,31.0,113.275,C,0,Madeleine Newell,1,1,35273.0
+217,1,3,27.0,7.925,S,0,Eliina Honkanen,0,0,2.0
+218,0,2,42.0,27.0,S,1,Sidney Jacobsohn,1,0,243847.0
+219,1,1,32.0,76.2917,C,0,Albina Bazzani,0,1,11813.0
+220,0,2,30.0,10.5,S,1,Walter Harris,0,0,14208.0
+221,1,3,16.0,8.05,S,1,Victor Sunderland,0,0,392089.0
+222,0,2,27.0,13.0,S,1,James Bracken,0,0,220367.0
+223,0,3,51.0,8.05,S,1,George Green,0,0,21440.0
+224,0,3,25.0,7.8958,S,1,Christo Nenkoff,0,0,349234.0
+225,1,1,38.0,90.0,S,1,Frederick Hoyt,1,1,19943.0
+226,0,3,22.0,9.35,S,1,Karl Berglund,0,0,4348.0
+227,1,2,19.0,10.5,S,1,William Mellors,0,0,751.0
+228,0,3,20.5,7.25,S,1,"""Henry"" Lovell",0,0,5.0
+229,0,2,18.0,13.0,S,1,Arne Fahlstrom,0,0,236171.0
+230,0,3,21.5,25.4667,S,0,Mathilde Lefebre,4,0,4133.0
+231,1,1,35.0,83.475,S,0,Irene Wallach Harris,1,1,36973.0
+232,0,3,29.0,7.775,S,1,Bengt Larsson,0,0,347067.0
+233,0,2,59.0,13.5,S,1,Ernst Sjostedt,0,0,237442.0
+234,1,3,5.0,31.3875,S,0,Lillian Asplund,6,0,347077.0
+235,0,2,24.0,10.5,S,1,Robert Leyson,0,0,29566.0
+236,0,3,21.5,7.55,S,0,Alice Harknett,0,0,6609.0
+237,0,2,44.0,26.0,S,1,Stephen Hold,1,0,26707.0
+238,1,2,8.0,26.25,S,0,Marjorie Collyer,2,0,31921.0
+239,0,2,19.0,10.5,S,1,Frederick Pengelly,0,0,28665.0
+240,0,2,33.0,12.275,S,1,George Hunt,0,0,1585.0
+241,0,3,21.5,14.4542,C,0,Thamine Zabour,1,0,2665.0
+242,1,3,21.5,15.5,Q,0,Katherine Murphy,1,0,367230.0
+243,0,2,29.0,10.5,S,1,Reginald Coleridge,0,0,14263.0
+244,0,3,22.0,7.125,S,1,Matti Maenpaa,0,0,2.0
+245,0,3,30.0,7.225,C,1,Sleiman Attalah,0,0,2694.0
+246,0,1,44.0,90.0,Q,1,William Minahan,2,1,19928.0
+247,0,3,25.0,7.775,S,0,Agda Lindahl,0,0,347071.0
+248,1,2,24.0,14.5,S,0,Anna Hamalainen,2,0,250649.0
+249,1,1,37.0,52.5542,S,1,Richard Beckwith,2,1,11751.0
+250,0,2,54.0,26.0,S,1,Ernest Carter,1,0,244252.0
+251,0,3,25.0,7.25,S,1,James Reed,0,0,362316.0
+252,0,3,29.0,10.4625,S,0,Elna Matilda Persson Strom,2,1,347054.0
+253,0,1,62.0,26.55,S,1,William Stead,0,1,113514.0
+254,0,3,30.0,16.1,S,1,William Lobb,1,0,5.0
+255,0,3,41.0,20.2125,S,0,Helena Wilhelmina Rosblom,2,0,370129.0
+256,1,3,29.0,15.2458,C,0,Hanne Youssef Razi Touma,2,0,2650.0
+257,1,1,35.0,79.2,C,0,Gertrude Thorne,0,0,17585.0
+258,1,1,30.0,86.5,S,0,Gladys Cherry,0,1,110152.0
+259,1,1,35.0,512.3292,C,0,Anna Ward,0,0,17755.0
+260,1,2,50.0,26.0,S,0,Lutie Davis Parrish,1,0,230433.0
+261,0,3,25.0,7.75,Q,1,Thomas Smith,0,0,384461.0
+262,1,3,3.0,31.3875,S,1,Edvin Asplund,6,0,347077.0
+263,0,1,52.0,79.65,S,1,Emil Taussig,2,1,110413.0
+264,0,1,40.0,0.0,S,1,William Harrison,0,1,112059.0
+265,0,3,21.5,7.75,Q,0,Delia Henry,0,0,382649.0
+266,0,2,36.0,10.5,S,1,David Reeves,0,0,17248.0
+267,0,3,16.0,39.6875,S,1,Ernesti Panula,5,0,3101295.0
+268,1,3,25.0,7.775,S,1,Ernst Persson,1,0,347083.0
+269,1,1,58.0,153.4625,S,0,Edith Junkins Graham,1,1,17582.0
+270,1,1,35.0,135.6333,S,0,Amelia Bissette,0,1,17760.0
+271,0,1,40.0,31.0,S,1,Alexander Cairns,0,0,113798.0
+272,1,3,25.0,0.0,S,1,William Tornquist,0,0,0.0
+273,1,2,41.0,19.5,S,0,Elizabeth Anne Maidment Mellinger,1,0,250644.0
+274,0,1,37.0,29.7,C,1,Charles Natsch,1,1,17596.0
+275,1,3,21.5,7.75,Q,0,Hanora Healy,0,0,370375.0
+276,1,1,63.0,77.9583,S,0,Kornelia Andrews,1,1,13502.0
+277,0,3,45.0,7.75,S,0,Augusta Lindblom,0,0,347073.0
+278,0,2,30.0,0.0,S,1,Francis Parkes,0,0,239853.0
+279,0,3,7.0,29.125,Q,1,Eric Rice,5,0,382652.0
+280,1,3,35.0,20.25,S,0,Rosa Hunt Abbott,2,0,2673.0
+281,0,3,65.0,7.75,Q,1,Frank Duane,0,0,336439.0
+282,0,3,28.0,7.8542,S,1,Nils Olsson,0,0,347464.0
+283,0,3,16.0,9.5,S,1,Alfons de Pelsmaeker,0,0,345778.0
+284,1,3,19.0,8.05,S,1,Edward Dorking,0,0,5.0
+285,0,1,40.0,26.0,S,1,Richard Smith,0,1,113056.0
+286,0,3,33.0,8.6625,C,1,Ivan Stankovic,0,0,349239.0
+287,1,3,30.0,9.5,S,1,Theodore de Mulder,0,0,345774.0
+288,0,3,22.0,7.8958,S,1,Penko Naidenoff,0,0,349206.0
+289,1,2,42.0,13.0,S,1,Masabumi Hosono,0,0,237798.0
+290,1,3,22.0,7.75,Q,0,Kate Connolly,0,0,370373.0
+291,1,1,26.0,78.85,S,0,Ellen Barber,0,0,19877.0
+292,1,1,19.0,91.0792,C,0,Helen Walton Bishop,1,1,11967.0
+293,0,2,36.0,12.875,C,1,Rene Levy,0,1,2163.0
+294,0,3,24.0,8.85,S,0,Aloisia Haas,0,0,349236.0
+295,0,3,24.0,7.8958,S,1,Ivan Mineff,0,0,349233.0
+296,0,1,40.0,27.7208,C,1,Ervin Lewy,0,0,17612.0
+297,0,3,23.5,7.2292,C,1,Mansour Hanna,0,0,2693.0
+298,0,1,2.0,151.55,S,0,Helen Allison,3,1,113781.0
+299,1,1,40.0,30.5,S,1,Adolphe Saalfeld,0,1,19988.0
+300,1,1,50.0,247.5208,C,0,Helene DeLaudeniere Chaput Baxter,1,1,17558.0
+301,1,3,21.5,7.75,Q,0,Anna Kelly,0,0,9234.0
+302,1,3,25.0,23.25,Q,1,Bernard McCoy,2,0,367226.0
+303,0,3,19.0,0.0,S,1,William Johnson,0,0,0.0
+304,1,2,28.0,12.35,Q,0,Nora Keane,0,1,226593.0
+305,0,3,25.0,8.05,S,1,Howard Williams,0,0,5.0
+306,1,1,0.92,151.55,S,1,Hudson Allison,3,1,113781.0
+307,1,1,35.0,110.8833,C,0,Margaret Fleming,0,0,17421.0
+308,1,1,17.0,108.9,C,0,Maria Josefa Perez de Soto y Vallejo Penasco y Castellana,1,1,17758.0
+309,0,2,30.0,24.0,C,1,Samuel Abelson,1,0,3381.0
+310,1,1,30.0,56.9292,C,0,Laura Francatelli,0,1,17485.0
+311,1,1,24.0,83.1583,C,0,Margaret Hays,0,1,11767.0
+312,1,1,18.0,262.375,C,0,Emily Ryerson,4,1,17608.0
+313,0,2,26.0,26.0,S,0,Anna Sylfven Lahtinen,2,0,250651.0
+314,0,3,28.0,7.8958,S,1,Ignjac Hendekovic,0,0,349243.0
+315,0,2,43.0,26.25,S,1,Benjamin Hart,2,0,13529.0
+316,1,3,26.0,7.8542,S,0,Helmina Nilsson,0,0,347470.0
+317,1,2,24.0,26.0,S,0,Miriam Sternin Kantor,1,0,244367.0
+318,0,2,54.0,14.0,S,1,Ernest Moraweck,0,0,29011.0
+319,1,1,31.0,164.8667,S,0,Mary Wick,2,1,36928.0
+320,1,1,40.0,134.5,C,0,Margaretta Corning Stone Spedden,2,1,16966.0
+321,0,3,22.0,7.25,S,1,Samuel Dennis,0,0,5.0
+322,0,3,27.0,7.8958,S,1,Yoto Danoff,0,0,349219.0
+323,1,2,30.0,12.35,Q,0,Hilda Slayter,0,0,234818.0
+324,1,2,22.0,29.0,S,0,Sylvia Mae Harbaugh Caldwell,2,0,248738.0
+325,0,3,25.0,69.55,S,1,George Sage,10,0,2343.0
+326,1,1,36.0,135.6333,C,0,Marie Young,0,1,17760.0
+327,0,3,61.0,6.2375,S,1,Johan Nysveen,0,0,345364.0
+328,1,2,36.0,13.0,S,0,Ada E Hall Ball,0,1,28551.0
+329,1,3,31.0,20.525,S,0,Emily Alice Brown Goldsmith,2,0,363291.0
+330,1,1,16.0,57.9792,C,0,Jean Hippach,1,1,111361.0
+331,1,3,21.5,23.25,Q,0,Agnes McCoy,2,0,367226.0
+332,0,1,45.5,28.5,S,1,Austen Partner,0,1,113043.0
+333,0,1,38.0,153.4625,S,1,George Graham,1,1,17582.0
+334,0,3,16.0,18.0,S,1,Leo Vander Planke,2,0,345764.0
+335,1,1,35.0,133.65,S,0,Clara Heinsheimer Frauenthal,1,0,17611.0
+336,0,3,25.0,7.8958,S,1,Mitto Denkoff,0,0,349225.0
+337,0,1,29.0,66.6,S,1,Thomas Pears,1,1,113776.0
+338,1,1,41.0,134.5,C,0,Elizabeth Burns,0,1,16966.0
+339,1,3,45.0,8.05,S,1,Karl Dahl,0,0,7598.0
+340,0,1,45.0,35.5,S,1,Stephen Blackwell,0,1,113784.0
+341,1,2,2.0,26.0,S,1,Edmond Navratil,2,1,230080.0
+342,1,1,24.0,263.0,S,0,Alice Fortune,5,1,19950.0
+343,0,2,28.0,13.0,S,1,Erik Collander,0,0,248740.0
+344,0,2,25.0,13.0,S,1,Charles Sedgwick,0,0,244361.0
+345,0,2,36.0,13.0,S,1,Stanley Fox,0,0,229236.0
+346,1,2,24.0,13.0,S,0,Amelia Brown,0,1,248733.0
+347,1,2,40.0,13.0,S,0,Marion Smith,0,0,31418.0
+348,1,3,21.5,16.1,S,0,Mary E Finck Davison,1,0,386525.0
+349,1,3,3.0,15.9,S,1,William Coutts,2,0,37671.0
+350,0,3,42.0,8.6625,S,1,Jovan Dimic,0,0,315088.0
+351,0,3,23.0,9.225,S,1,Nils Odahl,0,0,7267.0
+352,0,1,40.0,35.0,S,1,Fletcher Williams-Lambert,0,1,113510.0
+353,0,3,15.0,7.2292,C,1,Tannous Elias,2,0,2695.0
+354,0,3,25.0,17.8,S,1,Josef Arnold-Franchi,1,0,349237.0
+355,0,3,25.0,7.225,C,1,Wazli Yousif,0,0,2647.0
+356,0,3,28.0,9.5,S,1,Leo Vanden Steen,0,0,345783.0
+357,1,1,22.0,55.0,S,0,Elsie Bowerman,1,1,113505.0
+358,0,2,38.0,13.0,S,0,Annie Funk,0,0,237671.0
+359,1,3,21.5,7.8792,Q,0,Mary McGovern,0,0,330931.0
+360,1,3,21.5,7.8792,Q,0,Helen Mockler,0,0,330980.0
+361,0,3,40.0,27.9,S,1,Wilhelm Skoog,5,0,347088.0
+362,0,2,29.0,27.7208,C,1,Sebastiano del Carlo,1,0,2167.0
+363,0,3,45.0,14.4542,C,0,Catherine David Barbara,1,0,2691.0
+364,0,3,35.0,7.05,S,1,Adola Asim,0,0,3101310.0
+365,0,3,25.0,15.5,Q,1,Thomas O'Brien,1,0,370365.0
+366,0,3,30.0,7.25,S,1,Mauritz Adahl,0,0,7076.0
+367,1,1,60.0,75.25,C,0,Anna Sophia Atkinson Warren,1,1,110813.0
+368,1,3,21.5,7.2292,C,0,Mantoura Boulos Moussa,0,0,2626.0
+369,1,3,21.5,7.75,Q,0,Annie Jermyn,0,0,14313.0
+370,1,1,24.0,69.3,C,0,Leontine Aubart,0,1,17477.0
+371,1,1,25.0,55.4417,C,1,George Harder,1,1,11765.0
+372,0,3,18.0,6.4958,S,1,Jakob Wiklund,1,0,3101267.0
+373,0,3,19.0,8.05,S,1,William Beavan,0,0,323951.0
+374,0,1,22.0,135.6333,C,1,Sante Ringhini,0,0,17760.0
+375,0,3,3.0,21.075,S,0,Stina Palsson,4,0,349909.0
+376,1,1,35.0,82.1708,C,0,Leila Saks Meyer,1,0,17604.0
+377,1,3,22.0,7.25,S,0,Aurora Landergren,0,0,7077.0
+378,0,1,27.0,211.5,C,1,Harry Widener,2,1,113503.0
+379,0,3,20.0,4.0125,C,1,Tannous Betros,0,0,2648.0
+380,0,3,19.0,7.775,S,1,Karl Gustafsson,0,0,347069.0
+381,1,1,42.0,227.525,C,0,Rosalie Bidois,0,0,17757.0
+382,1,3,1.0,15.7417,C,0,"""Mary"" Nakid",2,0,2653.0
+383,0,3,32.0,7.925,S,1,Juho Tikkanen,0,0,2.0
+384,1,1,35.0,52.0,S,0,Mary Aline Towner Holverson,1,0,113789.0
+385,0,3,25.0,7.8958,S,1,Vasil Plotcharsky,0,0,349227.0
+386,0,2,18.0,73.5,S,1,Charles Davies,0,0,14879.0
+387,0,3,1.0,46.9,S,1,Sidney Goodwin,7,0,2144.0
+388,1,2,36.0,13.0,S,0,Kate Buss,0,0,27849.0
+389,0,3,25.0,7.7292,Q,1,Matthew Sadlier,0,0,367655.0
+390,1,2,17.0,12.0,C,0,Bertha Lehmann,0,0,1748.0
+391,1,1,36.0,120.0,S,1,William Carter,3,1,113760.0
+392,1,3,21.0,7.7958,S,1,Carl Jansson,0,0,350034.0
+393,0,3,28.0,7.925,S,1,Johan Gustafsson,2,0,3101277.0
+394,1,1,23.0,113.275,C,0,Marjorie Newell,1,1,35273.0
+395,1,3,24.0,16.7,S,0,Agnes Charlotta Bengtsson Sandstrom,2,1,9549.0
+396,0,3,22.0,7.7958,S,1,Erik Johansson,0,0,350052.0
+397,0,3,31.0,7.8542,S,0,Elina Olsson,0,0,350407.0
+398,0,2,46.0,26.0,S,1,Peter McKane,0,0,28403.0
+399,0,2,23.0,10.5,S,1,Alfred Pain,0,0,244278.0
+400,1,2,28.0,12.65,S,0,Jessie L Trout,0,0,240929.0
+401,1,3,39.0,7.925,S,1,Juha Niskanen,0,0,2.0
+402,0,3,26.0,8.05,S,1,John Adams,0,0,341826.0
+403,0,3,21.0,9.825,S,0,Mari Jussila,1,0,4137.0
+404,0,3,28.0,15.85,S,1,Pekka Hakkarainen,1,0,2.0
+405,0,3,20.0,8.6625,S,0,Marija Oreskovic,0,0,315096.0
+406,0,2,34.0,21.0,S,1,Shadrach Gale,1,0,28664.0
+407,0,3,51.0,7.75,S,1,Carl/Charles Widegren,0,0,347064.0
+408,1,2,3.0,18.75,S,1,William Richards,2,0,29106.0
+409,0,3,21.0,7.775,S,1,Hans Birkeland,0,0,312992.0
+410,0,3,21.5,25.4667,S,0,Ida Lefebre,4,0,4133.0
+411,0,3,25.0,7.8958,S,1,Todor Sdycoff,0,0,349222.0
+412,0,3,25.0,6.8583,Q,1,Henry Hart,0,0,394140.0
+413,1,1,33.0,90.0,Q,0,Daisy Minahan,1,1,19928.0
+414,0,2,30.0,0.0,S,1,Alfred Cunningham,0,0,239853.0
+415,1,3,44.0,7.925,S,1,Johan Sundman,0,0,2.0
+416,0,3,21.5,8.05,S,0,Annie Louise Rowley Meek,0,0,343095.0
+417,1,2,34.0,32.5,S,0,Lulu Thorne Christian Drew,2,0,28220.0
+418,1,2,18.0,13.0,S,0,Lyyli Silven,2,0,250652.0
+419,0,2,30.0,13.0,S,1,William Matthews,0,0,28228.0
+420,0,3,10.0,24.15,S,0,Catharina Van Impe,2,0,345773.0
+421,0,3,25.0,7.8958,C,1,Stanio Gheorgheff,0,0,349254.0
+422,0,3,21.0,7.7333,Q,1,David Charters,0,0,5.0
+423,0,3,29.0,7.875,S,1,Leo Zimmerman,0,0,315082.0
+424,0,3,28.0,14.4,S,0,Anna Sigrid Maria Brogren Danbom,2,0,347080.0
+425,0,3,18.0,20.2125,S,1,Viktor Rosblom,2,0,370129.0
+426,0,3,25.0,7.25,S,1,Phillippe Wiseman,0,0,4.0
+427,1,2,28.0,26.0,S,0,Ada Maria Winfield Clarke,1,0,2003.0
+428,1,2,19.0,26.0,S,0,"""Mrs Kate Louise Phillips Marshall"" Phillips",0,0,250655.0
+429,0,3,25.0,7.75,Q,1,James Flynn,0,0,364851.0
+430,1,3,32.0,8.05,S,1,Berk Trembisky Pickard,0,1,392078.0
+431,1,1,28.0,26.55,S,1,Mauritz Bjornstrom-Steffansson,0,1,110564.0
+432,1,3,21.5,16.1,S,0,Florence Kate White Thorneycroft,1,0,376564.0
+433,1,2,42.0,26.0,S,0,Alice Adelaide Slow Louch,1,0,3085.0
+434,0,3,17.0,7.125,S,1,Nikolai Kallio,0,0,2.0
+435,0,1,50.0,55.9,S,1,William Silvey,1,1,13507.0
+436,1,1,14.0,120.0,S,0,Lucile Carter,3,1,113760.0
+437,0,3,21.0,34.375,S,0,Doolina Ford,4,0,6608.0
+438,1,2,24.0,18.75,S,0,Emily Hocking Richards,5,0,29106.0
+439,0,1,64.0,263.0,S,1,Mark Fortune,5,1,19950.0
+440,0,2,31.0,10.5,S,1,Johan Kvillner,0,0,18723.0
+441,1,2,45.0,26.25,S,0,Esther Ada Bloomfield Hart,2,0,13529.0
+442,0,3,20.0,9.5,S,1,Leon Hampe,0,0,345769.0
+443,0,3,25.0,7.775,S,1,Johan Petterson,1,0,347076.0
+444,1,2,28.0,13.0,S,0,Encarnacion Reynaldo,0,0,230434.0
+445,1,3,25.0,8.1125,S,1,Bernt Johannesen-Bratthammer,0,0,65306.0
+446,1,1,4.0,81.8583,S,1,Washington Dodge,2,1,33638.0
+447,1,2,13.0,19.5,S,0,Madeleine Mellinger,1,0,250644.0
+448,1,1,34.0,26.55,S,1,Frederic Seward,0,0,113794.0
+449,1,3,5.0,19.2583,C,0,Marie Baclini,3,0,2666.0
+450,1,1,52.0,30.5,S,1,Arthur Peuchen,0,1,113786.0
+451,0,2,36.0,27.75,S,1,Edwy West,3,0,34651.0
+452,0,3,25.0,19.9667,S,1,Ingvald Hagland,1,0,65303.0
+453,0,1,30.0,27.75,C,1,Benjamin Foreman,0,1,113051.0
+454,1,1,49.0,89.1042,C,1,Samuel Goldenberg,1,1,17453.0
+455,0,3,25.0,8.05,S,1,Joseph Peduzzi,0,0,5.0
+456,1,3,29.0,7.8958,C,1,Ivan Jalsevac,0,0,349240.0
+457,0,1,65.0,26.55,S,1,Francis Millet,0,1,13509.0
+458,1,1,35.0,51.8625,S,0,Marion Kenyon,1,1,17464.0
+459,1,2,50.0,10.5,S,0,Ellen Toomey,0,0,13531.0
+460,0,3,25.0,7.75,Q,1,Maurice O'Connor,0,0,371060.0
+461,1,1,48.0,26.55,S,1,Harry Anderson,0,1,19952.0
+462,0,3,34.0,8.05,S,1,William Morley,0,0,364506.0
+463,0,1,47.0,38.5,S,1,Arthur Gee,0,1,111320.0
+464,0,2,48.0,13.0,S,1,Jacob Milling,0,0,234360.0
+465,0,3,25.0,8.05,S,1,Simon Maisner,0,0,2816.0
+466,0,3,38.0,7.05,S,1,Manuel Goncalves,0,0,3101306.0
+467,0,2,30.0,0.0,S,1,William Campbell,0,0,239853.0
+468,0,1,56.0,26.55,S,1,John Smart,0,0,113792.0
+469,0,3,25.0,7.725,Q,1,James Scanlan,0,0,36209.0
+470,1,3,0.75,19.2583,C,0,Helene Baclini,3,0,2666.0
+471,0,3,25.0,7.25,S,1,Arthur Keefe,0,0,323592.0
+472,0,3,38.0,8.6625,S,1,Luka Cacic,0,0,315089.0
+473,1,2,33.0,27.75,S,0,Ada Mary Worth West,3,0,34651.0
+474,1,2,23.0,13.7917,C,0,Marie Marthe Thuillard Jerwan,0,1,541.0
+475,0,3,22.0,9.8375,S,0,Ida Strandberg,0,0,7553.0
+476,0,1,40.0,52.0,S,1,George Clifford,0,1,110465.0
+477,0,2,34.0,21.0,S,1,Peter Renouf,1,0,31027.0
+478,0,3,29.0,7.0458,S,1,Lewis Braund,1,0,3460.0
+479,0,3,22.0,7.5208,S,1,Nils Karlsson,0,0,350060.0
+480,1,3,2.0,12.2875,S,0,Hildur Hirvonen,1,0,3101298.0
+481,0,3,9.0,46.9,S,1,Harold Goodwin,7,0,2144.0
+482,0,2,30.0,0.0,S,1,Anthony Frost,0,0,239854.0
+483,0,3,50.0,8.05,S,1,Richard Rouse,0,0,5.0
+484,1,3,63.0,9.5875,S,0,Hedwig Turkula,0,0,4134.0
+485,1,1,25.0,91.0792,C,1,Dickinson Bishop,1,1,11967.0
+486,0,3,21.5,25.4667,S,0,Jeannie Lefebre,4,0,4133.0
+487,1,1,35.0,90.0,S,0,Jane Anne Forby Hoyt,1,1,19943.0
+488,0,1,58.0,29.7,C,1,Edward Kent,0,1,11771.0
+489,0,3,30.0,8.05,S,1,Francis Somerton,0,0,5.0
+490,1,3,9.0,15.9,S,1,Eden Coutts,2,0,37671.0
+491,0,3,25.0,19.9667,S,1,Konrad Hagland,1,0,65304.0
+492,0,3,21.0,7.25,S,1,Einar Windelov,0,0,3101317.0
+493,0,1,55.0,30.5,S,1,Harry Molson,0,1,113787.0
+494,0,1,71.0,49.5042,C,1,Ramon Artagaveytia,0,0,17609.0
+495,0,3,21.0,8.05,S,1,Edward Stanley,0,0,4.0
+496,0,3,25.0,14.4583,C,1,Gerious Yousseff,0,0,2627.0
+497,1,1,54.0,78.2667,C,0,Elizabeth Eustis,1,1,36947.0
+498,0,3,25.0,15.1,S,1,Frederick Shellard,0,0,6212.0
+499,0,1,25.0,151.55,S,0,Bessie Waldo Daniels Allison,3,1,113781.0
+500,0,3,24.0,7.7958,S,1,Olof Svensson,0,0,350035.0
+501,0,3,17.0,8.6625,S,1,Petar Calic,0,0,315086.0
+502,0,3,21.0,7.75,Q,0,Mary Canavan,0,0,364846.0
+503,0,3,21.5,7.6292,Q,0,Bridget O'Sullivan,0,0,330909.0
+504,0,3,37.0,9.5875,S,0,Kristina Laitinen,0,0,4135.0
+505,1,1,16.0,86.5,S,0,Roberta Maioni,0,1,110152.0
+506,0,1,18.0,108.9,C,1,Victor Penasco y Castellana,1,1,17758.0
+507,1,2,33.0,26.0,S,0,Jane Richards Quick,2,0,26360.0
+508,1,1,40.0,26.55,S,1,"""George Arthur Brayton"" Bradley",0,0,111427.0
+509,0,3,28.0,22.525,S,1,Henry Olsen,0,0,4001.0
+510,1,3,26.0,56.4958,S,1,Fang Lang,0,0,1601.0
+511,1,3,29.0,7.75,Q,1,Eugene Daly,0,0,382651.0
+512,0,3,25.0,8.05,S,1,James Webber,0,0,3101316.0
+513,1,1,36.0,26.2875,S,1,James McGough,0,1,17473.0
+514,1,1,54.0,59.4,C,0,Elizabeth L. Barrett Rothschild,1,0,17603.0
+515,0,3,24.0,7.4958,S,1,Satio Coleff,0,0,349209.0
+516,0,1,47.0,34.0208,S,1,William Walker,0,1,36967.0
+517,1,2,34.0,10.5,S,0,Amelia Milley Lemore,0,1,34260.0
+518,0,3,25.0,24.15,Q,1,Patrick Ryan,0,0,371110.0
+519,1,2,36.0,26.0,S,0,"Florence ""Mary"" Agnes Hughes Angle",1,0,226875.0
+520,0,3,32.0,7.8958,S,1,Stefo Pavlovic,0,0,349242.0
+521,1,1,30.0,93.5,S,0,Anne Perreault,0,1,12749.0
+522,0,3,22.0,7.8958,S,1,Janko Vovk,0,0,349252.0
+523,0,3,25.0,7.225,C,1,Sarkis Lahoud,0,0,2624.0
+524,1,1,44.0,57.9792,C,0,Ida Sophia Fischer Hippach,1,1,111361.0
+525,0,3,25.0,7.2292,C,1,Fared Kassem,0,0,2700.0
+526,0,3,40.5,7.75,Q,1,James Farrell,0,0,367232.0
+527,1,2,50.0,10.5,S,0,Lucy Ridsdale,0,0,14258.0
+528,0,1,40.0,221.7792,S,1,John Farthing,0,1,17483.0
+529,0,3,39.0,7.925,S,1,Johan Salonen,0,0,3101296.0
+530,0,2,23.0,11.5,S,1,Richard Hocking,3,0,29104.0
+531,1,2,2.0,26.0,S,0,Phyllis Quick,2,0,26360.0
+532,0,3,25.0,7.2292,C,1,Nakli Toufik,0,0,2641.0
+533,0,3,17.0,7.2292,C,1,Joseph Elias,2,0,2690.0
+534,1,3,21.5,22.3583,C,0,Catherine Rizk Peter,2,0,2668.0
+535,0,3,30.0,8.6625,S,0,Marija Cacic,0,0,315084.0
+536,1,2,7.0,26.25,S,0,Eva Hart,2,0,13529.0
+537,0,1,45.0,26.55,S,1,Archibald Butt,0,1,113050.0
+538,1,1,30.0,106.425,C,0,Bertha LeRoy,0,0,17761.0
+539,0,3,25.0,14.5,S,1,Samuel Risien,0,0,364498.0
+540,1,1,22.0,49.5,C,0,Hedwig Frolicher,2,1,13568.0
+541,1,1,36.0,71.0,S,0,Harriet Crosby,2,1,5735.0
+542,0,3,9.0,31.275,S,0,Ingeborg Andersson,6,0,347082.0
+543,0,3,11.0,31.275,S,0,Sigrid Andersson,6,0,347082.0
+544,1,2,32.0,26.0,S,1,Edward Beane,1,0,2908.0
+545,0,1,50.0,106.425,C,1,Walter Douglas,1,1,17761.0
+546,0,1,64.0,26.0,S,1,Arthur Nicholson,0,0,693.0
+547,1,2,19.0,26.0,S,0,Ethel Clarke Beane,1,0,2908.0
+548,1,2,30.0,13.8625,C,1,Julian Padro y Manent,0,0,2146.0
+549,0,3,33.0,20.525,S,1,Frank Goldsmith,2,0,363291.0
+550,1,2,8.0,36.75,S,1,John Davies,2,0,33112.0
+551,1,1,17.0,110.8833,C,1,John Thayer,2,1,17421.0
+552,0,2,27.0,26.0,S,1,Percival Sharp,0,0,244358.0
+553,0,3,25.0,7.8292,Q,1,Timothy O'Brien,0,0,330979.0
+554,1,3,22.0,7.225,C,1,"""Philip Zenni"" Leeni",0,0,2620.0
+555,1,3,22.0,7.775,S,0,Velin Ohman,0,0,347085.0
+556,0,1,62.0,26.55,S,1,George Wright,0,0,113807.0
+557,1,1,48.0,39.6,C,0,Lucille Christiana Sutherland Duff Gordon,1,1,11755.0
+558,0,1,40.0,227.525,C,1,Victor Robbins,0,0,17757.0
+559,1,1,39.0,79.65,S,0,Tillie Mandelbaum Taussig,2,1,110413.0
+560,1,3,36.0,17.4,S,0,Emma de Messemaeker,1,0,345572.0
+561,0,3,25.0,7.75,Q,1,Thomas Morrow,0,0,372622.0
+562,0,3,40.0,7.8958,S,1,Husein Sivic,0,0,349251.0
+563,0,2,28.0,13.5,S,1,Robert Norman,0,0,218629.0
+564,0,3,25.0,8.05,S,1,John Simmons,0,0,392082.0
+565,0,3,21.5,8.05,S,0,Marion Ogden Meanwell,0,0,392087.0
+566,0,3,24.0,24.15,S,1,Alfred Davies,2,0,4.0
+567,0,3,19.0,7.8958,S,1,Ilia Stoytcheff,0,0,349205.0
+568,0,3,29.0,21.075,S,0,Alma Cornelia Berglund Palsson,4,0,349909.0
+569,0,3,25.0,7.2292,C,1,Tannous Doharr,0,0,2686.0
+570,1,3,32.0,7.8542,S,1,Carl Jonsson,0,0,350417.0
+571,1,2,62.0,10.5,S,1,George Harris,0,0,752.0
+572,1,1,53.0,51.4792,S,0,Charlotte Lamson Appleton,2,1,11769.0
+573,1,1,36.0,26.3875,S,1,"""Irving"" Flynn",0,1,17474.0
+574,1,3,21.5,7.75,Q,0,Mary Kelly,0,0,14312.0
+575,0,3,16.0,8.05,S,1,Alfred Rush,0,0,4.0
+576,0,3,19.0,14.5,S,1,George Patchett,0,0,358585.0
+577,1,2,34.0,13.0,S,0,Ethel Garside,0,0,243880.0
+578,1,1,39.0,55.9,S,0,Alice Munger Silvey,1,1,13507.0
+579,0,3,21.5,14.4583,C,0,Maria Elias Caram,1,0,2689.0
+580,1,3,32.0,7.925,S,1,Eiriik Jussila,0,0,2.0
+581,1,2,25.0,30.0,S,0,Julie Christy,2,0,237789.0
+582,1,1,39.0,110.8833,C,0,Marian Longstreth Morris Thayer,2,1,17421.0
+583,0,2,54.0,26.0,S,1,William Downton,0,0,28403.0
+584,0,1,36.0,40.125,C,1,John Ross,0,1,13049.0
+585,0,3,25.0,8.7125,C,1,Uscher Paulner,0,0,3411.0
+586,1,1,18.0,79.65,S,0,Ruth Taussig,2,1,110413.0
+587,0,2,47.0,15.0,S,1,John Jarvis,0,0,237565.0
+588,1,1,60.0,79.2,C,1,Maxmillian Frolicher-Stehli,2,1,13567.0
+589,0,3,22.0,8.05,S,1,Eliezer Gilinski,0,0,14973.0
+590,0,3,25.0,8.05,S,1,Joseph Murdlin,0,0,5.0
+591,0,3,35.0,7.125,S,1,Matti Rintamaki,0,0,2.0
+592,1,1,52.0,78.2667,C,0,Martha Eustis Stephenson,1,1,36947.0
+593,0,3,47.0,7.25,S,1,William Elsbury,0,0,5.0
+594,0,3,21.5,7.75,Q,0,Mary Bourke,2,0,364848.0
+595,0,2,37.0,26.0,S,1,John Chapman,1,0,29037.0
+596,0,3,36.0,24.15,S,1,Jean Van Impe,2,0,345773.0
+597,1,2,28.0,33.0,S,0,Jessie Leitch,0,0,248727.0
+598,0,3,49.0,0.0,S,1,Alfred Johnson,0,0,0.0
+599,0,3,25.0,7.225,C,1,Hanna Boulos,0,0,2664.0
+600,1,1,49.0,56.9292,C,1,"""Mr Morgan"" Duff Gordon",1,1,17485.0
+601,1,2,24.0,27.0,S,0,Amy Frances Christy Jacobsohn,3,0,243847.0
+602,0,3,25.0,7.8958,S,1,Petco Slabenoff,0,0,349214.0
+603,0,1,40.0,42.4,S,1,Charles Harrington,0,0,113796.0
+604,0,3,44.0,8.05,S,1,Ernst Torber,0,0,364511.0
+605,1,1,35.0,26.55,C,1,"""Mr E Haven"" Homer",0,0,111426.0
+606,0,3,36.0,15.55,S,1,Edvard Lindell,1,0,349910.0
+607,0,3,30.0,7.8958,S,1,Milan Karaic,0,0,349246.0
+608,1,1,27.0,30.5,S,1,Robert Daniel,0,0,113804.0
+609,1,2,22.0,41.5792,C,0,Juliette Marie Louise Lafargue Laroche,3,0,2123.0
+610,1,1,40.0,153.4625,S,0,Elizabeth Shutes,0,1,17582.0
+611,0,3,39.0,31.275,S,0,Alfrida Konstantia Brogren Andersson,6,0,347082.0
+612,0,3,25.0,7.05,S,1,Jose Jardin,0,0,3101305.0
+613,1,3,21.5,15.5,Q,0,Margaret Murphy,1,0,367230.0
+614,0,3,25.0,7.75,Q,1,John Horgan,0,0,370377.0
+615,0,3,35.0,8.05,S,1,William Brocklebank,0,0,364512.0
+616,1,2,24.0,65.0,S,0,Alice Herman,3,0,220845.0
+617,0,3,34.0,14.4,S,1,Ernst Danbom,2,0,347080.0
+618,0,3,26.0,16.1,S,0,Cordelia K Stanlick Lobb,1,0,5.0
+619,1,2,4.0,39.0,S,0,Marion Becker,3,1,230136.0
+620,0,2,26.0,10.5,S,1,Lawrence Gavey,0,0,31028.0
+621,0,3,27.0,14.4542,C,1,Antoni Yasbeck,1,0,2659.0
+622,1,1,42.0,52.5542,S,1,Edwin Kimball,1,1,11753.0
+623,1,3,20.0,15.7417,C,1,Sahid Nakid,2,0,2653.0
+624,0,3,21.0,7.8542,S,1,Henry Hansen,0,0,350029.0
+625,0,3,21.0,16.1,S,1,David Bowen,0,0,54636.0
+626,0,1,61.0,32.3208,S,1,Frederick Sutton,0,1,36963.0
+627,0,2,57.0,12.35,Q,1,Charles Kirkland,0,0,219533.0
+628,1,1,21.0,77.9583,S,0,Gretchen Longley,0,1,13502.0
+629,0,3,26.0,7.8958,S,1,Guentcho Bostandyeff,0,0,349224.0
+630,0,3,25.0,7.7333,Q,1,Patrick O'Connell,0,0,334912.0
+631,1,1,80.0,30.0,S,1,Algernon Barkworth,0,1,27042.0
+632,0,3,51.0,7.0542,S,1,Johan Lundahl,0,0,347743.0
+633,1,1,32.0,30.5,C,1,Max Stahelin-Maeglin,0,1,13214.0
+634,0,1,40.0,0.0,S,1,William Parr,0,0,112052.0
+635,0,3,9.0,27.9,S,0,Mabel Skoog,5,0,347088.0
+636,1,2,28.0,13.0,S,0,Mary Davis,0,0,237668.0
+637,0,3,32.0,7.925,S,1,Antti Leinonen,0,0,2.0
+638,0,2,31.0,26.25,S,1,Harvey Collyer,2,0,31921.0
+639,0,3,41.0,39.6875,S,0,Maria Emilia Ojala Panula,5,0,3101295.0
+640,0,3,25.0,16.1,S,1,Percival Thorneycroft,1,0,376564.0
+641,0,3,20.0,7.8542,S,1,Hans Jensen,0,0,350050.0
+642,1,1,24.0,69.3,C,0,Emma Sagesser,0,1,17477.0
+643,0,3,2.0,27.9,S,0,Margit Skoog,5,0,347088.0
+644,1,3,25.0,56.4958,S,1,Choong Foo,0,0,1601.0
+645,1,3,0.75,19.2583,C,0,Eugenie Baclini,3,0,2666.0
+646,1,1,48.0,76.7292,C,1,Henry Harper,1,1,17572.0
+647,0,3,19.0,7.8958,S,1,Liudevit Cor,0,0,349231.0
+648,1,1,56.0,35.5,C,1,Oberst Simonius-Blumer,0,1,13213.0
+649,0,3,25.0,7.55,S,1,Edward Willey,0,0,751.0
+650,1,3,23.0,7.55,S,0,Amy Stanley,0,0,2314.0
+651,0,3,25.0,7.8958,S,1,Mito Mitkoff,0,0,349221.0
+652,1,2,18.0,23.0,S,0,Elsie Doling,1,0,231919.0
+653,0,3,21.0,8.4333,S,1,Johannes Kalvik,0,0,8475.0
+654,1,3,21.5,7.8292,Q,0,Hanora O'Leary,0,0,330919.0
+655,0,3,18.0,6.75,Q,0,Hanora Hegarty,0,0,365226.0
+656,0,2,24.0,73.5,S,1,Leonard Hickman,2,0,14879.0
+657,0,3,25.0,7.8958,S,1,Alexander Radeff,0,0,349223.0
+658,0,3,32.0,15.5,Q,0,Catherine Bourke,2,0,364849.0
+659,0,2,23.0,13.0,S,1,George Eitemiller,0,0,29751.0
+660,0,1,58.0,113.275,C,1,Arthur Newell,2,1,35273.0
+661,1,1,50.0,133.65,S,1,Henry Frauenthal,2,0,17611.0
+662,0,3,40.0,7.225,C,1,Mohamed Badt,0,0,2623.0
+663,0,1,47.0,25.5875,S,1,Edward Colley,0,1,5727.0
+664,0,3,36.0,7.4958,S,1,Peju Coleff,0,0,349210.0
+665,1,3,20.0,7.925,S,1,Eino Lindqvist,1,0,2.0
+666,0,2,32.0,73.5,S,1,Lewis Hickman,2,0,14879.0
+667,0,2,25.0,13.0,S,1,Reginald Butler,0,0,234686.0
+668,0,3,25.0,7.775,S,1,Knud Rommetvedt,0,0,312993.0
+669,0,3,43.0,8.05,S,1,Jacob Cook,0,0,5.0
+670,1,1,35.0,52.0,S,0,Juliet Cummins Wright Taylor,1,1,19996.0
+671,1,2,40.0,39.0,S,0,Elizabeth Catherine Ford Brown,2,0,29750.0
+672,0,1,31.0,52.0,S,1,Thornton Davidson,1,1,12750.0
+673,0,2,70.0,10.5,S,1,Henry Mitchell,0,0,24580.0
+674,1,2,31.0,13.0,S,1,Charles Wilhelms,0,0,244270.0
+675,0,2,30.0,0.0,S,1,Ennis Watson,0,0,239856.0
+676,0,3,18.0,7.775,S,1,Gustaf Edvardsson,0,0,349912.0
+677,0,3,24.5,8.05,S,1,Frederick Sawyer,0,0,342826.0
+678,1,3,18.0,9.8417,S,0,Anna Turja,0,0,4138.0
+679,0,3,43.0,46.9,S,0,Augusta Tyler Goodwin,7,0,2144.0
+680,1,1,36.0,512.3292,C,1,Thomas Cardeza,1,1,17755.0
+681,0,3,21.5,8.1375,Q,0,Katie Peters,0,0,330935.0
+682,1,1,27.0,76.7292,C,1,Hammad Hassab,0,1,17572.0
+683,0,3,20.0,9.225,S,1,Thor Olsvigen,0,0,6563.0
+684,0,3,14.0,46.9,S,1,Charles Goodwin,7,0,2144.0
+685,0,2,60.0,39.0,S,1,Thomas Brown,2,0,29750.0
+686,0,2,25.0,41.5792,C,1,Joseph Laroche,3,0,2123.0
+687,0,3,14.0,39.6875,S,1,Jaako Panula,5,0,3101295.0
+688,0,3,19.0,10.1708,S,1,Branko Dakic,0,0,349228.0
+689,0,3,18.0,7.7958,S,1,Eberhard Fischer,0,0,350036.0
+690,1,1,15.0,211.3375,S,0,Georgette Madill,1,1,24160.0
+691,1,1,31.0,57.0,S,1,Albert Dick,1,1,17474.0
+692,1,3,4.0,13.4167,C,0,Manca Karun,1,0,349256.0
+693,1,3,25.0,56.4958,S,1,Ali Lam,0,0,1601.0
+694,0,3,25.0,7.225,C,1,Khalil Saad,0,0,2672.0
+695,0,1,60.0,26.55,S,1,John Weir,0,0,113800.0
+696,0,2,52.0,13.5,S,1,Charles Chapman,0,0,248731.0
+697,0,3,44.0,8.05,S,1,James Kelly,0,0,363592.0
+698,1,3,21.5,7.7333,Q,0,Katherine Mullens,0,0,35852.0
+699,0,1,49.0,110.8833,C,1,John Thayer,2,1,17421.0
+700,0,3,42.0,7.65,S,1,Adolf Humblen,0,1,348121.0
+701,1,1,18.0,227.525,C,0,Madeleine Talmadge Force Astor,1,1,17757.0
+702,1,1,35.0,26.2875,S,1,Spencer Silverthorne,0,1,17475.0
+703,0,3,18.0,14.4542,C,0,Saiide Barbara,1,0,2691.0
+704,0,3,25.0,7.7417,Q,1,Martin Gallagher,0,0,36864.0
+705,0,3,26.0,7.8542,S,1,Henrik Hansen,1,0,350025.0
+706,0,2,39.0,26.0,S,1,"""Mr Henry Marshall"" Morley",0,0,250655.0
+707,1,2,45.0,13.5,S,0,Florence Kelly,0,0,223596.0
+708,1,1,42.0,26.2875,S,1,Edward Calderhead,0,1,17476.0
+709,1,1,22.0,151.55,S,0,Alice Cleaver,0,0,113781.0
+710,1,3,25.0,15.2458,C,1,"""William George"" Moubarek",2,0,2661.0
+711,1,1,24.0,49.5042,C,0,"""Mrs de Villiers"" Mayne",0,1,17482.0
+712,0,1,40.0,26.55,S,1,Herman Klaber,0,1,113028.0
+713,1,1,48.0,52.0,S,1,Elmer Taylor,1,1,19996.0
+714,0,3,29.0,9.4833,S,1,August Larsson,0,0,7545.0
+715,0,2,52.0,13.0,S,1,Samuel Greenberg,0,0,250647.0
+716,0,3,19.0,7.65,S,1,Peter Soholt,0,1,348124.0
+717,1,1,38.0,227.525,C,0,Caroline Endres,0,1,17757.0
+718,1,2,27.0,10.5,S,0,Edwina Troutt,0,1,34218.0
+719,0,3,25.0,15.5,Q,1,Michael McEvoy,0,0,36568.0
+720,0,3,33.0,7.775,S,1,Malkolm Johnson,0,0,347062.0
+721,1,2,6.0,33.0,S,0,Annie Harper,1,0,248727.0
+722,0,3,17.0,7.0542,S,1,Svend Jensen,1,0,350048.0
+723,0,2,34.0,13.0,S,1,William Gillespie,0,0,12233.0
+724,0,2,50.0,13.0,S,1,Henry Hodges,0,0,250643.0
+725,1,1,27.0,53.1,S,1,Norman Chambers,1,1,113806.0
+726,0,3,20.0,8.6625,S,1,Luka Oreskovic,0,0,315094.0
+727,1,2,30.0,21.0,S,0,Lillian Jefferys Renouf,3,0,31027.0
+728,1,3,21.5,7.7375,Q,0,Margareth Mannion,0,0,36866.0
+729,0,2,25.0,26.0,S,1,Kurt Bryhl,1,0,236853.0
+730,0,3,25.0,7.925,S,0,Pieta Ilmakangas,1,0,2.0
+731,1,1,29.0,211.3375,S,0,Elisabeth Allen,0,1,24160.0
+732,0,3,11.0,18.7875,C,1,Houssein Hassan,0,0,2699.0
+733,0,2,30.0,0.0,S,1,Robert Knight,0,0,239855.0
+734,0,2,23.0,13.0,S,1,William Berriman,0,0,28425.0
+735,0,2,23.0,13.0,S,1,Moses Troupiansky,0,0,233639.0
+736,0,3,28.5,16.1,S,1,Leslie Williams,0,0,54636.0
+737,0,3,48.0,34.375,S,0,Margaret Ann Watson Ford,4,0,6608.0
+738,1,1,35.0,512.3292,C,1,Gustave Lesurer,0,1,17755.0
+739,0,3,25.0,7.8958,S,1,Kanio Ivanoff,0,0,349201.0
+740,0,3,25.0,7.8958,S,1,Minko Nankoff,0,0,349218.0
+741,1,1,40.0,30.0,S,1,Walter Hawksford,0,1,16988.0
+742,0,1,36.0,78.85,S,1,Tyrell Cavendish,1,1,19877.0
+743,1,1,21.0,262.375,C,0,Susan Ryerson,4,1,17608.0
+744,0,3,24.0,16.1,S,1,Neal McNamee,1,0,376566.0
+745,1,3,31.0,7.925,S,1,Juho Stranden,0,0,2.0
+746,0,1,70.0,71.0,S,1,Edward Crosby,2,1,5735.0
+747,0,3,16.0,20.25,S,1,Rossmore Abbott,2,0,2673.0
+748,1,2,30.0,13.0,S,0,Anna Sinkkonen,0,0,250648.0
+749,0,1,19.0,53.1,S,1,Daniel Marvin,1,1,113773.0
+750,0,3,31.0,7.75,Q,1,Michael Connaghton,0,0,335097.0
+751,1,2,4.0,23.0,S,0,Joan Wells,2,0,29103.0
+752,1,3,6.0,12.475,S,1,Meier Moor,1,1,392096.0
+753,0,3,33.0,9.5,S,1,Johannes Vande Velde,0,0,345780.0
+754,0,3,23.0,7.8958,S,1,Lalio Jonkoff,0,0,349204.0
+755,1,2,48.0,65.0,S,0,Jane Laver Herman,3,0,220845.0
+756,1,2,0.67,14.5,S,1,Viljo Hamalainen,2,0,250649.0
+757,0,3,28.0,7.7958,S,1,August Carlsson,0,0,350042.0
+758,0,2,18.0,11.5,S,1,Percy Bailey,0,0,29108.0
+759,0,3,34.0,8.05,S,1,Thomas Theobald,0,0,363294.0
+760,1,1,33.0,86.5,S,0,Lucy Noel Martha Dyer-Edwards Rothes,0,1,110152.0
+761,0,3,25.0,14.5,S,1,John Garfirth,0,0,358585.0
+762,0,3,41.0,7.125,S,1,Iisakki Nirva,0,0,2.0
+763,1,3,20.0,7.2292,C,1,Hanna Barah,0,0,2663.0
+764,1,1,36.0,120.0,S,0,Lucile Polk Carter,3,1,113760.0
+765,0,3,16.0,7.775,S,1,Hans Eklund,0,0,347074.0
+766,1,1,51.0,77.9583,S,0,Anna Andrews Hogeboom,1,1,13502.0
+767,0,1,40.0,39.6,C,1,Arthur Brewe,0,0,112379.0
+768,0,3,30.5,7.75,Q,0,Mary Mangan,0,0,364850.0
+769,0,3,25.0,24.15,Q,1,Daniel Moran,1,0,371110.0
+770,0,3,32.0,8.3625,S,1,Daniel Gronnestad,0,0,8471.0
+771,0,3,24.0,9.5,S,1,Rene Lievens,0,0,345781.0
+772,0,3,48.0,7.8542,S,1,Niels Jensen,0,0,350047.0
+773,0,2,57.0,10.5,S,0,Mary Mack,0,1,3.0
+774,0,3,25.0,7.225,C,1,Dibo Elias,0,0,2674.0
+775,1,2,54.0,23.0,S,0,Eliza Needs Hocking,4,0,29105.0
+776,0,3,18.0,7.75,S,1,Pehr Myhrman,0,0,347078.0
+777,0,3,25.0,7.75,Q,1,Roger Tobin,0,1,383121.0
+778,1,3,5.0,12.475,S,0,Virginia Emanuel,0,0,364516.0
+779,0,3,25.0,7.7375,Q,1,Thomas Kilgannon,0,0,36865.0
+780,1,1,43.0,211.3375,S,0,Elisabeth Walton McMillan Robert,1,1,24160.0
+781,1,3,13.0,7.2292,C,0,Banoura Ayoub,0,0,2687.0
+782,1,1,17.0,57.0,S,0,Vera Gillespie Dick,1,1,17474.0
+783,0,1,29.0,30.0,S,1,Milton Long,0,1,113501.0
+784,0,3,25.0,23.45,S,1,Andrew Johnston,3,0,6607.0
+785,0,3,25.0,7.05,S,1,William Ali,0,0,3101312.0
+786,0,3,25.0,7.25,S,1,David Lishin Harmer,0,0,374887.0
+787,1,3,18.0,7.4958,S,0,Anna Sjoblom,0,0,3101265.0
+788,0,3,8.0,29.125,Q,1,George Rice,5,0,382652.0
+789,1,3,1.0,20.575,S,1,Bertram Dean,3,0,2315.0
+790,0,1,46.0,79.2,C,1,Benjamin Guggenheim,0,1,17593.0
+791,0,3,25.0,7.75,Q,1,Andrew Keane,0,0,12460.0
+792,0,2,16.0,26.0,S,1,Alfred Gaskell,0,0,239865.0
+793,0,3,21.5,69.55,S,0,Stella Sage,10,0,2343.0
+794,0,1,40.0,30.6958,C,1,William Hoyt,0,0,17600.0
+795,0,3,25.0,7.8958,S,1,Ristiu Dantcheff,0,0,349203.0
+796,0,2,39.0,13.0,S,1,Richard Otter,0,0,28213.0
+797,1,1,49.0,25.9292,S,0,Farnham Leader,0,1,17465.0
+798,1,3,31.0,8.6833,S,0,Mara Osman,0,0,349244.0
+799,0,3,30.0,7.2292,C,1,Yousseff Ibrahim Shawah,0,0,2685.0
+800,0,3,30.0,24.15,S,0,Rosalie Paula Govaert Van Impe,2,0,345773.0
+801,0,2,34.0,13.0,S,1,Martin Ponesell,0,0,250647.0
+802,1,2,31.0,26.25,S,0,Charlotte Annie Tate Collyer,2,0,31921.0
+803,1,1,11.0,120.0,S,1,William Carter,3,1,113760.0
+804,1,3,0.42,8.5167,C,1,Assad Thomas,1,0,2625.0
+805,1,3,27.0,6.975,S,1,Oskar Hedman,0,0,347089.0
+806,0,3,31.0,7.775,S,1,Karl Johansson,0,0,347063.0
+807,0,1,39.0,0.0,S,1,Thomas Andrews,0,1,112050.0
+808,0,3,18.0,7.775,S,0,Ellen Pettersson,0,0,347087.0
+809,0,2,39.0,13.0,S,1,August Meyer,0,0,248723.0
+810,1,1,33.0,53.1,S,0,Bertha Griggs Chambers,1,1,113806.0
+811,0,3,26.0,7.8875,S,1,William Alexander,0,0,3474.0
+812,0,3,39.0,24.15,S,1,James Lester,0,0,4.0
+813,0,2,35.0,10.5,S,1,Richard Slemen,0,0,28206.0
+814,0,3,6.0,31.275,S,0,Ebba Andersson,6,0,347082.0
+815,0,3,30.5,8.05,S,1,Ernest Tomlin,0,0,364499.0
+816,0,1,40.0,0.0,S,1,Richard Fry,0,1,112058.0
+817,0,3,23.0,7.925,S,0,Wendla Heininen,0,0,2.0
+818,0,2,31.0,37.0042,C,1,Albert Mallet,2,0,2079.0
+819,0,3,43.0,6.45,S,1,John Holm,0,0,7075.0
+820,0,3,10.0,27.9,S,1,Karl Skoog,5,0,347088.0
+821,1,1,52.0,93.5,S,0,Clara Jennings Gregg Hays,2,1,12749.0
+822,1,3,27.0,8.6625,S,1,Nikola Lulic,0,0,315098.0
+823,0,1,38.0,0.0,S,1,John Reuchlin,0,0,19972.0
+824,1,3,27.0,12.475,S,0,Beila Moor,1,1,392096.0
+825,0,3,2.0,39.6875,S,1,Urho Panula,5,0,3101295.0
+826,0,3,25.0,6.95,Q,1,John Flynn,0,0,368323.0
+827,0,3,25.0,56.4958,S,1,Len Lam,0,0,1601.0
+828,1,2,1.0,37.0042,C,1,Andre Mallet,2,0,2079.0
+829,1,3,25.0,7.75,Q,1,Thomas McCormack,0,0,367228.0
+830,1,1,62.0,80.0,S,0,Martha Evelyn Stone,0,1,113572.0
+831,1,3,15.0,14.4542,C,0,Selini Alexander Yasbeck,1,0,2659.0
+832,1,2,0.83,18.75,S,1,George Richards,2,0,29106.0
+833,0,3,25.0,7.2292,C,1,Amin Saad,0,0,2671.0
+834,0,3,23.0,7.8542,S,1,Albert Augustsson,0,0,347468.0
+835,0,3,18.0,8.3,S,1,Owen Allum,0,0,2223.0
+836,1,1,39.0,83.1583,C,0,Sara Compton,2,1,17756.0
+837,0,3,21.0,8.6625,S,1,Jakob Pasic,0,0,315097.0
+838,0,3,25.0,8.05,S,1,Maurice Sirota,0,0,392092.0
+839,1,3,32.0,56.4958,S,1,Chang Chip,0,0,1601.0
+840,1,1,40.0,29.7,C,1,Pierre Marechal,0,1,11774.0
+841,0,3,20.0,7.925,S,1,Ilmari Alhomaki,0,0,2.0
+842,0,2,16.0,10.5,S,1,Thomas Mudd,0,0,3.0
+843,1,1,30.0,31.0,C,0,Augusta Serepeca,0,0,113798.0
+844,0,3,34.5,6.4375,C,1,Peter Lemberopolous,0,0,2683.0
+845,0,3,17.0,8.6625,S,1,Jeso Culumovic,0,0,315090.0
+846,0,3,42.0,7.55,S,1,Anthony Abbing,0,0,5547.0
+847,0,3,25.0,69.55,S,1,Douglas Sage,10,0,2343.0
+848,0,3,35.0,7.8958,C,1,Marin Markoff,0,0,349213.0
+849,0,2,28.0,33.0,S,1,John Harper,1,0,248727.0
+850,1,1,35.0,89.1042,C,0,Edwiga Grabowska Goldenberg,1,1,17453.0
+851,0,3,4.0,31.275,S,1,Sigvard Andersson,6,0,347082.0
+852,0,3,74.0,7.775,S,1,Johan Svensson,0,0,347060.0
+853,0,3,9.0,15.2458,C,0,Nourelain Boulos,2,0,2678.0
+854,1,1,16.0,39.4,S,0,Mary Lines,1,1,17592.0
+855,0,2,44.0,26.0,S,0,Lilian Hughes Carter,1,0,244252.0
+856,1,3,18.0,9.35,S,0,Leah Rosen Aks,1,0,392091.0
+857,1,1,45.0,164.8667,S,0,Mary Hitchcock Wick,2,0,36928.0
+858,1,1,51.0,26.55,S,1,Peter Daly,0,1,113055.0
+859,1,3,24.0,19.2583,C,0,Latifa Qurban Baclini,3,0,2666.0
+860,0,3,25.0,7.2292,C,1,Raihed Razi,0,0,2629.0
+861,0,3,41.0,14.1083,S,1,Claus Hansen,2,0,350026.0
+862,0,2,21.0,11.5,S,1,Frederick Giles,1,0,28134.0
+863,1,1,48.0,25.9292,S,0,Margaret Welles Barron Swift,0,1,17466.0
+864,0,3,21.5,69.55,S,0,Dorothy Sage,10,0,2343.0
+865,0,2,24.0,13.0,S,1,John Gill,0,0,233866.0
+866,1,2,42.0,13.0,S,0,Karolina Bystrom,0,0,236852.0
+867,1,2,27.0,13.8583,C,0,Asuncion Duran y More,1,0,2149.0
+868,0,1,31.0,50.4958,S,1,Washington Roebling,0,1,17590.0
+869,0,3,25.0,9.5,S,1,Philemon van Melkebeke,0,0,345777.0
+870,1,3,4.0,11.1333,S,1,Harold Johnson,2,0,347742.0
+871,0,3,26.0,7.8958,S,1,Cerin Balkic,0,0,349248.0
+872,1,1,47.0,52.5542,S,0,Sallie Monypeny Beckwith,2,1,11751.0
+873,0,1,33.0,5.0,S,1,Frans Carlsson,0,1,695.0
+874,0,3,47.0,9.0,S,1,Victor Vander Cruyssen,0,0,345765.0
+875,1,2,28.0,24.0,C,0,Hannah Wizosky Abelson,1,0,3381.0
+876,1,3,15.0,7.225,C,0,Adele Najib,0,0,2667.0
+877,0,3,20.0,9.8458,S,1,Alfred Gustafsson,0,0,7534.0
+878,0,3,19.0,7.8958,S,1,Nedelio Petroff,0,0,349212.0
+879,0,3,25.0,7.8958,S,1,Kristo Laleff,0,0,349217.0
+880,1,1,56.0,83.1583,C,0,Lily Alexenia Wilson Potter,1,1,11767.0
+881,1,2,25.0,26.0,S,0,Imanita Parrish Hall Shelley,1,0,230433.0
+882,0,3,33.0,7.8958,S,1,Johann Markun,0,0,349257.0
+883,0,3,22.0,10.5167,S,0,Gerda Dahlberg,0,0,7552.0
+884,0,2,28.0,10.5,S,1,Frederick Banfield,0,0,34068.0
+885,0,3,25.0,7.05,S,1,Henry Sutehall,0,0,392076.0
+886,0,3,39.0,29.125,Q,0,Margaret Norton Rice,5,0,382652.0
+887,0,2,27.0,13.0,S,1,Juozas Montvila,0,0,211536.0
+888,1,1,19.0,30.0,S,0,Margaret Graham,0,1,112053.0
+889,0,3,21.5,23.45,S,0,Catherine Johnston,3,0,6607.0
+890,1,1,26.0,30.0,C,1,Karl Behr,0,1,111369.0
+891,0,3,32.0,7.75,Q,1,Patrick Dooley,0,0,370376.0
